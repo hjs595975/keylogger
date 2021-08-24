@@ -1,0 +1,3 @@
+1.frist start server.py
+2.new terminal and C:\Users\user\AppData\Local\Programs\Python\Python38\python.exe C:\Users\user\here\you\log.py enter
+3enjoy
